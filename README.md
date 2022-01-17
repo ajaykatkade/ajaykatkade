@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 🔭 I’m currently working on **Google Cloud Platform**
-- 🌱 I’m currently **learning Full Stack Development and Data Structures and Algorithms**
+- 🌱 I’m currently **learning Full Stack Development , Data Structures and Algorithms**
 - 👯 I’m looking to collaborate on **Java Projects, Google Cloud Projects**
 - 🤔 I’m looking for help with **Web Development and competitive programming**
 - 📫 How to reach me: Best way to mail me on **ajaykatkade98@gmail.com**
