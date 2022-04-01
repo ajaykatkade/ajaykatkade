@@ -10,7 +10,7 @@
 - 🌱 I’m currently **learning Full Stack Development , Data Structures and Algorithms**
 - 👯 I’m looking to collaborate on **Java Projects, Google Cloud Projects**
 - 🤔 I’m looking for help with **Web Development and competitive programming**
-- 📫 How to reach me: Best way to mail me on **ajaykatkade98@gmail.com**
+- 📫 Best way to reach out to me : **ajaykatkade98@gmail.com**
 - ⚡ Fun fact **Thinking ;)**
 
 ## 🚀 Languages and Tools:
